@@ -1,16 +1,28 @@
-# sreeInsta
+# instagram
 
-A new Flutter project.
+
+Instagrm app in flutter with dynamic data change.. 
 
 ## Getting Started
+  
+### Just clone the project and then nagivate to that path and run flutter project
 
-This project is a starting point for a Flutter application.
+=> git clone <URL> <br>
+=> flutter run
 
-A few resources to get you started if this is your first Flutter project:
+# Note :-
+## We can able to change Data based on our requiremates</P>
+  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p >
+  <img src="https://github.com/Sreenivassreee/Flutter-instagram-with-dynamic-data/blob/master/Preview/Instagram-1.png" width="350" title="Screenshot-1 "><br>
+  
+  <img src="https://github.com/Sreenivassreee/Flutter-instagram-with-dynamic-data/blob/master/Preview/Instagram-2.png" width="350" title="Screenshot-2 "><br>
+  
+   <img src="https://github.com/Sreenivassreee/Flutter-instagram-with-dynamic-data/blob/master/Preview/Instagram-3.png" width="350" title="Screenshot-3 "><br>
+    <img src="https://github.com/Sreenivassreee/Flutter-instagram-with-dynamic-data/blob/master/Preview/Instagram-4.png" width="350" title="Screenshot-4 "><br>
+     
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developed by
+## Sreenivas K
